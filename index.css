@@ -137,8 +137,10 @@ img{
 .navcheckinbtn{
   width: 50px;
   height: 50px;
-  background: rgb(240,101,24);
-  background: linear-gradient(25deg, rgba(240,101,24,1) 0%, rgba(216,45,188,1) 90%);
+  background: rgb(149,46,159);
+  background: linear-gradient(225deg, rgba(149,46,159,1) 0%, rgba(242,95,68,1) 100%);
+/*   background: rgb(240,101,24);
+  background: linear-gradient(25deg, rgba(240,101,24,1) 0%, rgba(216,45,188,1) 90%); */
   border: 1px solid white;
 }
 
